@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="recipe_database" uuid="86c638bf-3640-4adb-a309-d68eac61aedf">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\kisho\AppData\Local\JetBrains\IntelliJIdea2022.3\device-explorer\Pixel_6_API_30 [emulator-5554]\data\data\com.mobilecomp.recipeapp\databases\recipe_database</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
